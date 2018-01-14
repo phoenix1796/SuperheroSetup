@@ -1,0 +1,4 @@
+.tabbrowser-tab:not([pinned]) {
+    max-height: 80px !important;
+    min-height: 42px !important;
+}
